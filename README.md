@@ -18,6 +18,6 @@ Maths:
 
 How to Compile: Open your terminal and run: gcc ludo.c -o ludo
 
-How to Run After compiling, you can run the program with: ./ludo
+How to Run After compiling, you can run the program with: ludo.exe
 
 The program will ask how many rolls you want to simulate. For example, enter 1000000 for a million rolls.
