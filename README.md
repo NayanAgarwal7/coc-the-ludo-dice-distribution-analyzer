@@ -16,7 +16,7 @@ Maths:
 -Random experiments (stochastic modeling)
 -Theoretical vs. experimental probabilities
 
-How to Compile: Open your terminal and run: gcc main.c -o ludo
+How to Compile: Open your terminal and run: gcc ludo.c -o ludo
 
 How to Run After compiling, you can run the program with: ./ludo
 
